@@ -10,4 +10,4 @@ The project demonstrates step-by-step evolution from simple random walks to mult
 06_multiple_random_walks- particle can move left, right, stay in the same position and in EACH walk the user can set diffrent starting point and probalities
 07_product_stock_model- It is massively based on 06 and there has been added a limitation for the random walk to stop when stocks reaches 0.
 
-The final script can be used as a simulation for multiple products stock, where each random walk correspond to each product, steps correspond to minutes/hours/days.
+The final script can be used as a simulation for multiple products stock, where each random walk correspond to each product, steps correspond to minutes/hours/days and the user can set diffrent probabilities to diffrent products.
